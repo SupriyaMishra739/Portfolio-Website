@@ -10,7 +10,8 @@ import Testimonial from './components/testimonials/Testimonials'
 import Portfolio from './components/portfolio/Portfolio'
 const App = () => {
   return (
-<><Header></Header>
+<>
+<Header/>
 <Nav/>
 <About/>
 <Experience/>
